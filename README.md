@@ -15,8 +15,8 @@ I'm a Computer Scientist with a passion for building end-to-end intelligent syst
 
 <!-- Social & Contact Links -->
 <p align="left">
-  <a href="www.linkedin.com/in/muhammad-zulfan-abidin-b4427b212" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="www.linkedin.com/in/muhammad-zulfan-abidin-b4427b212" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
   <a href="mailto:zulfanisious20@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
